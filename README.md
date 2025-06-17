@@ -18,7 +18,7 @@ Se ha implementado una restricción de acceso en el panel de Webmin, bloqueando 
 
 ### Con esta medida, se busca proteger la integridad del servidor y limitar el acceso a usuarios no autorizados.
 
-## Conclucion
+## Conclusión
 
 - Importancia de la Seguridad en la Administración de Servidores: Se ha reforzado la comprensión de que la seguridad es fundamental en la gestión de servidores. Implementar restricciones de acceso es una práctica esencial para proteger la información y los recursos del sistema.
 - Manejo de Herramientas de Control de Acceso: Se ha adquirido experiencia en el uso de herramientas de control de acceso, como Webmin, lo que permite gestionar de manera efectiva quién puede interactuar con el servidor y cómo se pueden aplicar políticas de seguridad.
