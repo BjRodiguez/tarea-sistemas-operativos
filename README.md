@@ -5,16 +5,16 @@ Se ha implementado una restricción de acceso en el panel de Webmin, bloqueando 
 ## Pasos que se realizaron para bloquear por ip
 
 - Se hizo el bloqueo a travez del firewall de webmin
-  ![firewall iptables](/Users/jeronm/Desktop/img1.png)
+  ![firewall iptables](/assets/img1.png)
 
 - Luego se clickeo la opcion, agreagar regla
-  ![add rule](/Users/jeronm/Desktop/img2.png)
+  ![add rule](/assets/img2.png)
 
 - se especificaron cual era la ip, y todas las acciones necesarias para el bloqueo
-  ![add rule](/Users/jeronm/Desktop/img3.png)
+  ![add rule](/assets/img3.png)
 
 - por ultimo, se intento acceder con la ip que fue bloqueada para validar si la regla se estaba aplicando correctamente.
-  ![add rule](/Users/jeronm/Desktop/img4.png)
+  ![add rule](/assets/img4.png)
 
 ### Con esta medida, se busca proteger la integridad del servidor y limitar el acceso a usuarios no autorizados.
 
